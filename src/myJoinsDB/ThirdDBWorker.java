@@ -7,7 +7,7 @@ import java.util.List;
 public class ThirdDBWorker {
     private final String URL = "jdbc:mysql://127.0.0.1:3306/MyJoinsDB?serverTimezone=UTC";
     private final String LOGIN = "sayut61";
-    private final String PASSWORD = "Sunk@r61_093";
+    private final String PASSWORD = "Root1993";
 
     public ThirdDBWorker(){
         try {
