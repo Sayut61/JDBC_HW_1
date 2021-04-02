@@ -1,10 +1,10 @@
 package myJoinsDB;
 
-public class SecondRequest {
+public class ThirdRequest {
     String birthday;
     String phone;
 
-    public SecondRequest(String birthday, String phone) {
+    public ThirdRequest(String birthday, String phone) {
         this.birthday = birthday;
         this.phone = phone;
     }
@@ -19,7 +19,7 @@ public class SecondRequest {
 
     @Override
     public String toString() {
-        return "SecondRequest{" +
+        return "ThirdRequest{" +
                 "birthday='" + birthday + '\'' +
                 ", phone='" + phone + '\'' +
                 '}';
